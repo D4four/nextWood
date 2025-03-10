@@ -13,14 +13,14 @@
 
 .slider1 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider1 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn1 {
@@ -52,14 +52,14 @@
 
 .slider2 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider2 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn2 {
@@ -87,14 +87,14 @@
 
 .slider3 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider3 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn3 {
@@ -122,14 +122,14 @@
 
 .slider4 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider4 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn4 {
@@ -157,14 +157,14 @@
 
 .slider5 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider5 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn5 {
@@ -192,14 +192,14 @@
 
 .slider6 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider6 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn6 {
@@ -227,14 +227,14 @@
 
 .slider7 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider7 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn7 {
@@ -262,14 +262,14 @@
 
 .slider8 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider8 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn8 {
@@ -297,14 +297,14 @@
 
 .slider9 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider9 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn9 {
@@ -332,14 +332,14 @@
 
 .slider10 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider10 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn10 {
@@ -367,14 +367,14 @@
 
 .slider11 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider11 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn11 {
@@ -402,14 +402,14 @@
 
 .slider12 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider12 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn12 {
@@ -437,14 +437,14 @@
 
 .slider13 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider13 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn13 {
@@ -472,14 +472,14 @@
 
 .slider14 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider14 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn14 {
@@ -507,14 +507,14 @@
 
 .slider15 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider15 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn15 {
@@ -542,14 +542,14 @@
 
 .slider16 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider16 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn16 {
@@ -577,14 +577,14 @@
 
 .slider17 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider17 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn17 {
@@ -612,14 +612,14 @@
 
 .slider18 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider18 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn18 {
@@ -647,14 +647,14 @@
 
 .slider19 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider19 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn19 {
@@ -682,14 +682,14 @@
 
 .slider20 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider20 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn20 {
@@ -717,14 +717,14 @@
 
 .slider21 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider21 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn21 {
@@ -752,14 +752,14 @@
 
 .slider22 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider22 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn22 {
@@ -787,14 +787,14 @@
 
 .slider23 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider23 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn23 {
@@ -822,14 +822,14 @@
 
 .slider24 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider24 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn24 {
@@ -857,14 +857,14 @@
 
 .slider25 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider25 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn25 {
@@ -892,14 +892,14 @@
 
 .slider26 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider26 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn26 {
@@ -927,14 +927,14 @@
 
 .slider26 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider26 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn26 {
@@ -962,14 +962,14 @@
 
 .slider27 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider27 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn27 {
@@ -997,14 +997,14 @@
 
 .slider28 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider28 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn28 {
@@ -1032,14 +1032,14 @@
 
 .slider29 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider29 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn29 {
@@ -1067,14 +1067,14 @@
 
 .slider30 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider30 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn30 {
@@ -1102,14 +1102,14 @@
 
 .slider31 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider31 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn31 {
@@ -1137,14 +1137,14 @@
 
 .slider32 {
   position: relative;
-  width: 50rem;
+  width: 42rem;
   background: white;
   padding: 20px;
   text-align: center;
 }
 
 .slider32 img {
- width: 60rem
+ width: 42rem;
 }
 
 .close-btn32 {

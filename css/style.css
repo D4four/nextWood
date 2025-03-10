@@ -2648,7 +2648,7 @@ margin-right: 5rem;
 
   .sec_next_page {
     top: 130rem;
-    width: 40rem;
+    width: 12rem;
     height: 15rem;
     opacity: 1;
   }
@@ -2713,7 +2713,7 @@ margin-right: 5rem;
   }
 
   .sec_next_page {
-    top: 138rem;
+    top: 160rem;
   }
 }
 
@@ -2823,7 +2823,7 @@ margin-right: 5rem;
   }
 
   .sec_next_page {
-    top: 172rem;
+    top: 146rem;
   }
 }
 
@@ -4028,8 +4028,8 @@ margin-right: 5rem;
   }
 
   .sec_next_page {
-    top: 214rem;
-    width: 45rem;
+    top: 210rem;
+    width: 8rem;
   }
 }
 
@@ -4045,7 +4045,7 @@ margin-right: 5rem;
 
 @media (max-width: 416px) {
   .sec_next_page {
-    top: 228rem;
+    top: 198rem;
   }
 }
 
