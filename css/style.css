@@ -2736,9 +2736,21 @@ margin-right: 5rem;
 /* Mobile view (burger menu) - changed to 835px */
 @media screen and (max-width: 835px) {
 
+  #preloader {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
   #loader-image {
     width: 35rem;
     height: 35rem;
+    margin: 0 auto;
+    position: absolute;
+    top: 25rem;
+    right: 0;
+    left: 0;
+    bottom: 0;
   }
 
   .burger-icon {
