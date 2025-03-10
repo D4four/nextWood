@@ -2647,6 +2647,10 @@ margin-right: 5rem;
   .sec_r {
     width: 25rem;
   }
+
+  .section-page {
+    height: 100%;
+  }
 }
 
 @media (max-width: 1042px) {
@@ -2731,6 +2735,12 @@ margin-right: 5rem;
 
 /* Mobile view (burger menu) - changed to 835px */
 @media screen and (max-width: 835px) {
+
+  #loader-image {
+    width: 35rem;
+    height: 35rem;
+  }
+
   .burger-icon {
     display: block;
   }
