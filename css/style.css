@@ -2557,6 +2557,12 @@ margin-right: 5rem;
   }
 }
 
+@media (max-width: 1502px) {
+  .title {
+    font-size: 5rem;
+  }
+}
+
 @media (max-width: 1486px) {
   .sec_next_page {
     top: 110rem;
@@ -2605,6 +2611,10 @@ margin-right: 5rem;
   .connect a img {
     width: 40px;
     height: 40px;
+  }
+
+  .title {
+    font-size: 4rem;
   }
 }
 
@@ -2704,6 +2714,16 @@ margin-right: 5rem;
 
   .sec_next_page {
     top: 138rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .title {
+    font-size: 3rem;
+  }
+
+  .subtitle {
+    font-size: 2rem;
   }
 }
 
